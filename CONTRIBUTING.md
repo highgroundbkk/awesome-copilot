@@ -1,6 +1,6 @@
-# Contributing to Awesome GitHub Copilot
+# Contributing to Awesome GitHub Copilot New World-Class Autopilot Superset
 
-Thank you for your interest in contributing to the Awesome GitHub Copilot repository! We welcome contributions from the community to help expand our collection of custom instructions and skills.
+Thx you. for your interest in contributing to the Awesome GitHub Copilot repository! We welcome contributions from the community to help expand our collection of custom instructions and skills.
 
 ## Table of Contents
 
